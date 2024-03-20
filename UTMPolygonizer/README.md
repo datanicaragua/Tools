@@ -9,7 +9,7 @@
 - **Calculadora de Estadísticas**: Obtén automáticamente el área, perímetro y centroide de tus polígonos.
 
 ## ¿Cómo Usarlo?
-1. **Abrir en Google Colab**: Haz clic en el enlace proporcionado para abrir el script en Google Colab.
+1. **Abrir en Google Colab**: Haz clic en el enlace proporcionado para abrir el script en Google Colab. [UTMPolygonizer](https://colab.research.google.com/github/datanicaragua/Tools/blob/main/UTMPolygonizer/UTMPolygonizer.ipynb)
 2. **Cargar tus Datos**: Sube tu archivo de waypoints UTM siguiendo las instrucciones detalladas en el notebook.
 3. **Ejecutar el Script**: Procesa tus datos ejecutando cada celda del notebook secuencialmente.
 4. **Descargar Resultados**: Al finalizar, descarga tu archivo GeoJSON generado.
