@@ -1,8 +1,7 @@
 # UTMPolygonizer
 
 ## Descripción
-UTMPolygonizer es una herramienta interactiva diseñada para simplificar la conversión de waypoints UTM en polígonos, ofreciendo a los usuarios una forma accesible y eficiente de generar datos geoespaciales útiles para análisis y visualizaciones. Este script se ejecuta dentro de Google Colab, facilitando su uso sin necesidad de instalación de software adicional.
-[UTMPolygonizer Notebook](https://colab.research.google.com/github/datanicaragua/Tools/blob/main/UTMPolygonizer/UTMPolygonizer.ipynb)
+[UTMPolygonizer](https://colab.research.google.com/github/datanicaragua/Tools/blob/main/UTMPolygonizer/UTMPolygonizer.ipynb) es una herramienta interactiva diseñada para simplificar la conversión de waypoints UTM en polígonos, ofreciendo a los usuarios una forma accesible y eficiente de generar datos geoespaciales útiles para análisis y visualizaciones. Este script se ejecuta dentro de Google Colab, facilitando su uso sin necesidad de instalación de software adicional.
 
 ## Características
 - **Conversión de Waypoints a Polígonos**: Transforma fácilmente tus puntos UTM en polígonos.
